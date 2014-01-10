@@ -1,7 +1,7 @@
 ArteJS [![Build Status](https://secure.travis-ci.org/vistaprint/ArteJS.png?branch=master)](http://travis-ci.org/vistaprint/ArteJS)
 ======
 
-ArteJS is a powerful, extensible, flexible and cross-browser rich text editor that is designed to product  consistent, valid and concise html.  
+ArteJS is a powerful, extensible, flexible and cross-browser rich text editor that is designed to product consistent, valid and concise html.  
 
 # Overview #
 ArteJS is an integral part of VistaPrint’s DIY product design experience that allows adding rich text to a document that eventually gets printed.  This imposes a stringent requirement on the output of the rich text editor.  Most of the rich text editors we evaluated either did not allow any control on the resultant markup or were simply buggy/incomplete.  
